@@ -23,6 +23,7 @@
 
 ---
 
+![Video](./docs/minishell.gif)
 
 ## 🎯 Project Overview
 
